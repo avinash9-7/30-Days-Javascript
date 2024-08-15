@@ -17,4 +17,5 @@ console.log(typeof(c));
 console.log(typeof(a));
 console.log(typeof(b));
 b="fruits";
+console.log(b);
 
