@@ -34,3 +34,9 @@ if(num1!=num2){
     console.log("better");
 }
 
+// task14
+
+let number=prompt("enter a no.:");
+
+let result=number>0? "positive" : "negative" ;
+console.log(result)
