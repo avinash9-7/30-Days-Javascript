@@ -74,3 +74,8 @@ else{
     console.log(year," is not a leap year")
 }
 
+// task7
+let number=prompt("enter a no.:");
+
+let result=number%2==0? "even" : "odd" ;
+console.log(result)
